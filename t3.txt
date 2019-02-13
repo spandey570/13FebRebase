@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Test file 3
+=======
+Feature F1 first commit
+>>>>>>> Feature B1
